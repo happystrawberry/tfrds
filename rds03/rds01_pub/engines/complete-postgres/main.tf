@@ -1,8 +1,7 @@
 provider "aws" {
   region = local.region
-  #shared_credentials_file = "/Users/stephenwu/.aws/credentials"
-  access_key = "AKIA3NKQGD6A4CCZPSH6"
-  secret_key = "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"
+  access_key = ""
+  secret_key = ""
   profile = "default"
 }
 

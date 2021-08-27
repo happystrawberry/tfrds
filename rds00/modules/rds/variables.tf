@@ -7,6 +7,6 @@ variable region00 {
 
 variable mycredential {
   type        = string
-  default     = "/Users/stephenwu/.aws/credentials"
+  default     = ""
   description = "my credentials"
 }
